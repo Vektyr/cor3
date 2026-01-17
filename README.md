@@ -58,6 +58,7 @@ Path related to the Nutcracker website
 * [Project 'Demeter'](./Project%20Demeter/Project%20'Demeter'.jpg) - 0de3e86ba0c29b423cb465e3f1c5d9f8
 * [[unnamed image]](./Messenger/V3%20News/adf10cce763ac7be4296883546be6838.jpg) - adf10cce763ac7be4296883546be6838
 * [Gobbler](./Messenger/CORIE%20DATABASE/Gobbler.jpg) - 31736d49434a6a56fccf2e20306cbb40
+* [[unnamed image]](./Messenger/Augustus%20Nordman/skylift_photo.jpg) - skylift_photo
 
 ### loops 4
 * [XM5_A.png](./Reports/XM5_A.png.jpg) - the_day_of_doom
