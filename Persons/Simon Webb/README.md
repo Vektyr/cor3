@@ -8,8 +8,5 @@
 | Company | VIIBOT |
 | Occupancy | Retired |
 | Rank | None |
-| User ID | 905972 |
+| User ID | {{0199e793-c2aa-77c9-97a4-fab0b5ab88c4}} |
 | Account Status | Active |
-
----
-> Meta note: The `User ID` value differs for every user account and can be used to add Simon to your messenger.
