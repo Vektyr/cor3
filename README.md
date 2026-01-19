@@ -3,7 +3,7 @@ ARG related to the launch of cor3.gg
 
 
 <details>
-<summary><h2></h2>File index:</h2></summary>
+<summary><h2>→ File index ←</h2></summary>
 
 ### assets
 * [L.png](./Browser/infinite_memory.corie/L.png.jpg) - [BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
@@ -12,6 +12,8 @@ ARG related to the launch of cor3.gg
 * [Biofarms](./Browser/forum.corie/Biofarms.jpg) [B0JfPtEO](https://os.cor3.gg/assets/Biofarms.B0JfPtEO.jpg)
 * [Goodies](./Browser/forum.corie/Goodies.png.jpg) [nbUL9XqW](https://os.cor3.gg/assets/Goodies.png.nbUL9XqW.jpg)
 * [FRAGO_missilesilo_09](./Browser/trade-shipment.corie/FRAGO_missilesilo_09.jpg) [DXef9zha](https://os.cor3.gg/assets/FRAGO_missilesilo_09.DXef9zha.jpg)
+* [banner-status-incoming](./banner-status-incoming.png) [dop5u0np](https://os.cor3.gg/assets/banner-status-incoming.dop5u0np.png)
+* [banner-status-ready](./banner-status-ready.png) [CyXOFZ4R](https://os.cor3.gg/assets/banner-status-ready.CyXOFZ4R.png)
 
 ### loops 0
 Tutorial
@@ -67,7 +69,16 @@ Path related to the Nutcracker website
 * [Report, Z.5815.pdf](./Reports/Report,%20Z.5815.pdf.jpg) - report_z
 * [Report_E.pdf](./Reports/Report_E.pdf.png) - report_e
 
+### m7.repnodemassive
+* [tvlines.mp4](./repnodemassive/tvlines.mp4)
 
 </details>
 
 The [Browser](./Browser/) folder is not an actual folder on the desktop, just houses things related to the browser application found on the app tray.
+
+After solving all 4 loops, an option to buy a ticket to a ship to Mars appears.
+![banner-status-ready](./banner-status-ready.png) → ![banner-status-incoming](./banner-status-incoming.png)
+
+Clicking the banner leads to ↓
+## https://m7.repnodemassive.tech/
+which has a countdown to Sunday, February 1, 2026 15:00:00 GMT.
