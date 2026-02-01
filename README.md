@@ -72,9 +72,26 @@ Path related to the Nutcracker website
 ### m7.repnodemassive
 * [tvlines.mp4](./repnodemassive/tvlines.mp4)
 
+---
+
+### loops acts 2
+#### 200
+##### timelines 1
+* [a9f3c1_0047](./MR-7-Media-reader-78x/a9f3c1_0047.mp4) - [kljrehg43oigh34ibj323oi54jb4l5kj32](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/kljrehg43oigh34ibj323oi54jb4l5kj32.mp4)
+* [r_cache_7f2b](./MR-7-Media-reader-78x/r_cache_7f2b.png) - [jevhlj54klvhl45n4jlkbjrevl76mnh32jkhk](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/jevhlj54klvhl45n4jlkbjrevl76mnh32jkhk.png)
+* [rec_19_11_00](./MR-7-Media-reader-78x/rec_19_11_00.mp3) - [43jo5jbklerfjvlkecjoi3hj56kln5jlkbv4jkjv4](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/43jo5jbklerfjvlkecjoi3hj56kln5jlkbv4jkjv4.mp3)
+* [noise_b_441_02](./MR-7-Media-reader-78x/noise_b_441_02.png) - [erjohg43jongh4j3kbcjk3hnjkefvhrfjkerv](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/erjohg43jongh4j3kbcjk3hnjkefvhrfjkerv.png)
+* ??? - [rtlnjlkvjlk34j56nj6576pj5bl5khv4l5khc4e4](https://cdn.cor3.gg/corie/loops/acts/2/200/timelines/1/rtlnjlkvjlk34j56nj6576pj5bl5khv4l5khc4e4.mp4)
+
+## timeline
+* [sfx__004___a](/MR-7-Media-reader-78x/sfx__004___a.png) [12_lunacolony_security](https://cdn.cor3.gg/corie/timeline/12_lunacolony_security.png)
+
+
 </details>
 
 The [Browser](./Browser/) folder is not an actual folder on the desktop, just houses things related to the browser application found on the app tray.
+
+The [MR-7-Media-reader-78x](./MR-7-Media-reader-78x/) folder is also not an actual folder, but houses things found on the storage device once it's repaired/decrypted.
 
 After solving all 4 loops, an option to buy a ticket to a ship to Mars appears.
 ![banner-status-ready](./banner-status-ready.png) → ![banner-status-incoming](./banner-status-incoming.png)

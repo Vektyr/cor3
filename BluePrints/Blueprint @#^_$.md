@@ -1,5 +1,7 @@
 # Blueprint @#^*$
 
+| Properties | |
+|---|---|
 | Date of creation | 21.08.2191 |
 | Time of creation |  |
 | Size | 7MB |
