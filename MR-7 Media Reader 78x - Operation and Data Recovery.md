@@ -27,45 +27,13 @@ If an error occurs during the mounting process, the MR-7 halts the operation and
 
 **Error code 192A03** is a composite error identifier specific to COR3 Tech devices. While the manual’s Appendix B contains the full error code list, we can break down this particular code as follows: \* `192A03` (hexadecimal) can be conceptually split into components: `19-2A-03`. Although proprietary, it often encodes the subsystem and error type. For instance, `0x19` might refer to the File System/Integrity subsystem, `0x2A` could be a specific error class like “authentication mismatch” or “checksum error,” and `0x03` is the error subtype or sequence. \* **Meaning:** In plain terms, error 192A03 in the MR-7 likely means **“Data stream authentication failed – unrecoverable mismatch”**. This would occur if the drive’s internal integrity checks (or decryption routines) detect that data has been tampered with or corrupted beyond what error correction can fix. It could be triggered by something like a bad block in a critical area (e.g., the master file table or encryption header) that doesn’t match its expected checksum or signature. \* **Probable Causes:** \* The storage media is physically degraded (as hinted by the SMART stats), resulting in corrupted sectors that even the ECC (error-correcting code) can’t fully restore. \* The media’s security footprint **CORE-CADL-BASIC** suggests encryption; an incorrect decryption key or a broken cipher header could cause an authentication failure (the system sees gibberish where it expects structured data). \* There is also the possibility of deliberate tampering – e.g., someone altered the data or the drive’s firmware (though less likely here; that would usually show a different code). \* **Impact:** The MR-7 aborts the mount process to protect the host and the integrity of any partial data. At this point, no files are accessible to the user; the directory listing might be incomplete or not visible. The device UI signals an error state (flashing red status and the error code as shown). For quick reference, **Table 4.2** lists this and related error codes in the MR-7 context:
 
-Error Code
+| Error Code | Description | Subsystem | Resolution Approach | 
+|---|---|---|---| 
+| **192A03** | Data authentication failed (unrecov.) | FS/Integrity check| Run automated **Fix** routine (see below); if unsuccessful, escalate to manual recovery (see §10.4.2).
+|**192A02** | Data integrity warning (recoverable) | FS/Integrity check|The system detected corruption but managed to recover using ECC. Data read may be slow. (User caution advised; consider backing up.) 
+| **191F01** | Encryption key required/mismatch | Security layer | Provide correct decryption key or check if drive’s security profile matches what MR-7 supports (§9.3.2).  
+|**140C01**|Interface CRC error (transient)|BUS/Link layer|Usually a communication glitch. Re-seat the drive; check cable if external. Retry operation.
 
-Description
-
-Subsystem
-
-Resolution Approach
-
-**192A03**
-
-Data authentication failed (unrecov.)
-
-FS/Integrity check
-
-Run automated **Fix** routine (see below); if unsuccessful, escalate to manual recovery (see §10.4.2).
-
-**192A02**
-
-Data integrity warning (recoverable)
-
-FS/Integrity check
-
-The system detected corruption but managed to recover using ECC. Data read may be slow. (User caution advised; consider backing up.)
-
-**191F01**
-
-Encryption key required/mismatch
-
-Security layer
-
-Provide correct decryption key or check if drive’s security profile matches what MR-7 supports (§9.3.2).
-
-**140C01**
-
-Interface CRC error (transient)
-
-BUS/Link layer
-
-Usually a communication glitch. Re-seat the drive; check cable if external. Retry operation.
 
 _Table 4.2: Common MR-7 error codes and their meanings._ (For a full list, see Appendix B.) From the table, **192A03** is clearly a critical error requiring special handling. The MR-7’s firmware has recognized it cannot proceed normally, but it offers a built-in mitigation: the **Fix** routine. The appearance of the “FIX” button (Figure 4.3, bottom left) indicates the device is giving the operator a chance to recover the data using an automated process. We will discuss the Fix procedure in the next section. Before proceeding, ensure that you have noted the error code and any relevant log messages. The manual advises documenting such errors in mission logs (per §1.5, _Operational Logging Guidelines_). Additionally, do not power off or remove the drive at this stage – doing so could worsen the corruption. The correct step is to initiate the recovery while the drive remains in place, as the MR-7 has halted further damage and is ready to attempt repairs in situ.
 
