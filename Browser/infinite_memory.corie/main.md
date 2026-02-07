@@ -62,7 +62,18 @@ ARC ID 2512.4 PUBLIC
 ### Economical analysis of the "new" PL-18 Rocket
 ARC ID 3117.3 RESTRICTED
 
-ACCESS DENIED - INSUFFICIENT CLEARANCE REPUTATION
+> [!NOTE]
+> 7.0 reputation is required to view the content of this section.
+
+<p><strong>Date:</strong> 05.11.2105, Luna, Tikhonov expo complex. Investors presentation.</p><br>
+<p>We, in Paradigm Logistics are proud to say that our work with our colleagues from Exar-Solis has finally achieved truly wonderful results!</p>
+<p>Presented today, the PL-18 Rocket is a ground breaking achievement not only for our company, but for humanity as a whole! Our rocket is able to transport 20 more tons of usable cargo than any competitor!</p>
+<p>The rocket uses new (upgraded) Helium-3 rocket fuel with a mix of patented and certified additions, which allow its engines to reach 30% more efficiency compared to the previous model.</p>
+<p>Considering that Exar-Solis would keep the exclusive rights for production of Helium-3 on the Lunar refineries, we would have indisputable advantages in costs per launch.</p>
+<p>Our plans include an option for our current long-term customers to upgrade their existing logistics plans to a new rocket with only up to 15% increase in price. We expect most of those customers to commit to that.</p>
+<p>According to our analysts that would allow us to increase our monthly profits by at least 20%, even considering possible loss of clients.</p>
+<p>Our next step would be the further development of the technology, finessing the engines and starting their open-market sales.</p>
+<p>With those fully ready, Paradigm Logistics aims to start our invasion into the shuttlecraft and colony ships market, for short to medium transfers in the solar system.</p>
 
 ---
 
@@ -71,7 +82,21 @@ ACCESS DENIED - INSUFFICIENT CLEARANCE REPUTATION
 ### Declaration of Union, FSA, 2124
 ARC ID 107.1 RESTRICTED
 
-ACCESS DENIED - INSUFFICIENT CLEARANCE REPUTATION
+> [!NOTE]
+> 7.0 reputation is required to view the content of this section.
+
+<p>"We, the people of Earth and Cosmos, proclaim our alliance today. Our goal is to unite humanity in its search for a new home for our species.</p>
+<p>We swear to uphold and protect the best qualities of humanity and fight the worst of them.</p>
+<p>We swear to expand the boundaries of space in our search for a better future.</p>
+<p>We swear to be honest and hard working, as only through labor can we achieve happiness in the future.</p>
+<p>We, the Free Space Alliance, proclaim that from this day forward, our path is lit with our people's aspirations. We will not fail Humanity and all those who share our ideals".</p>
+<p><strong>Anton Vedernikov, Starprom CEO</strong></p><br>
+<p>Free Space Alliance, also known as SOYUZ, is a major political faction that has a seat on the Perpetual Council (2251). SOYUZ is known for its humanistic ideas and their ideals of "community and equality". The founders of that union are the major corporations that have been transformed into such during the Age of Strife, being the former BRICS nations.</p>
+<p>The current proclaimed goal of the Union is a preparation for a deep space exploration with the ultimate goal of finding a new permanent home for humanity instead of the "old and desolate Terra" (Earth). And although their declarations are honorable and worthy, the means to achieve that are sometimes questionable.</p>
+<p>Driven by an ever expanding need for resources, SOYUZ has built hundreds of space stations and asteroid mining outposts.</p>
+<p>One of their main goals is to finesse the CORE's terraforming technology, to get prepared for "inevitable adaptation to future eco-system".</p>
+<p>The faction HQ's are located on Ganymede and Europa colonies that have been terraformed enough to sustain human life.</p>
+<p>SOYUZ is adored by many, but feared by others, as their ideology, totally dedicated to "common good" leaves very little room for any deviation.</p>
 
 ---
 
