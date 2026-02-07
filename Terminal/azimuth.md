@@ -19,4 +19,4 @@ Oh Spirit, protect us from evil that comes from the skier ! Kill those mindless 
 Oh Spirit, we are ready. Lead us, guide us, and let all the -distortion- burn and rot.
 ```
 
-Connecting also download the [MR-7 Media Reader 78x - Operation and Data Recovery](/MR-7%20Media%20Reader%2078x%20-%20Operation%20and%20Data%20Recovery.md) to your desktop.
+Connecting and answering the question downloads the [MR-7 Media Reader 78x - Operation and Data Recovery](/MR-7%20Media%20Reader%2078x%20-%20Operation%20and%20Data%20Recovery.md) document to your desktop.

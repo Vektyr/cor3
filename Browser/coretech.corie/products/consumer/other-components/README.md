@@ -9,4 +9,4 @@
 | COOL-HTP  | HTP Cooling Assembly | Thermal_loop_mgr           | CORE-THERM-PASSIVE | v1.0.9                           | CST-THRM Rev.B |
 
 > [!NOTE]
-> The `v1.16.05` firmware version for `MR-7` is clickable and downloads [MR-7-78X-FW-v1.16.05.exe](/MR-7-78x/MR-7-78X-FW-v1.16.05.exe) to the [MR-7-78x](/MR-7-78x/) directory.
+> The `v1.16.05` firmware version for `MR-7` is clickable and downloads [MR-7-78X-FW-v1.16.05.exe](/MR-7-78x/MR-7-78X-FW-v1.16.05.exe) and [MR-7-78X-FW-Manual.txt](/MR-7-78x/MR-7-78X-FW-Manual.txt.md) to the [MR-7-78x](/MR-7-78x/) directory.
