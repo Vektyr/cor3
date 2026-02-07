@@ -10,3 +10,14 @@
     <div>IP: &lt;No-Identity&gt;</div>
 </section>
 ```
+
+The first encoded line can be decoded with Vigenere with the key `radio` to 
+```
+    use broadcast
+    zirdvkos_pucw_eatnmzul --purwralgek=
+```
+
+Using the Vigenere key `command` only on the second line gives
+```
+    activate_site_forcibly --parbfdgrtw=
+```
