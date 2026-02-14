@@ -1,6 +1,6 @@
 People who's profiles display an UUID in their `User ID` field:
 * [Anton Vedernikov](./Anton%20Vedernikov/)
-* [Augustus Nordman](./Augustus%20Nordman/) - related to [Reports/OPS_Archive.txt](/Reports/OPS_Archive.txt)
+* [Augustus Nordman](./Augustus%20Nordman/) - related to [Reports/OPS_Archive.txt](/Reports/OPS_Archive.txt) and for some players [Investigation results, USOL CDC, 2192](/Investigation%20results,%20USOL%20CDC,%202192.md)
 * [Demeter Muggabee](./Demeter%20Muggabee/)
 * [German Titov](./German%20Titov/)
 * [Konrad Malloy](./Konrad%20Malloy/)
