@@ -8,7 +8,7 @@
 | Company | Unemployed |
 | Occupancy | None |
 | Rank | Civilian |
-| User ID | 594925 |
+| User ID | {{019c2d67-303a-7615-8217-e118f675106f}} |
 | Account Status | Active |
 
 ![](https://cdn.cor3.gg/corie/characters/avatars/jean_flanders_avatar.webp)

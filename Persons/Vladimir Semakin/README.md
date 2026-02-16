@@ -8,7 +8,7 @@
 | Company | Self employed |
 | Occupancy | Garbage Disposal Manager |
 | Rank | None |
-| User ID | 249797 |
+| User ID | {{019c2d67-3038-733a-9789-13a607adc7e1}} |
 | Account Status | Active |
 
 ![](https://cdn.cor3.gg/corie/characters/avatars/vladimir_semakin_avatar.webp)

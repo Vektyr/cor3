@@ -2,6 +2,7 @@ People who's profiles display an UUID in their `User ID` field:
 * [Anton Vedernikov](./Anton%20Vedernikov/)
 * [Augustus Nordman](./Augustus%20Nordman/) - related to [Reports/OPS_Archive.txt](/Reports/OPS_Archive.txt) and for some players [Investigation results, USOL CDC, 2192](/Investigation%20results,%20USOL%20CDC,%202192.md)
 * [Demeter Muggabee](./Demeter%20Muggabee/)
+* [Farhad Somrei](./Farhad%20Somrei/)
 * [German Titov](./German%20Titov/)
 * [Konrad Malloy](./Konrad%20Malloy/)
 * [Kumar Abdul](./Kumar%20Abdul/)
@@ -17,7 +18,7 @@ People who's profiles display an UUID in their `User ID` field:
 * [Thomas Albertson](./Thomas%20Albertson/)
 * [Vladimir Semakin](./Vladimir%20Semakin/) - he adds you automatically, it's not necessary (nor possible) to add him
 
-People with a red 6-digit ID who can not be added as a contact in the messenger:
+People with a 6-digit ID who can not be added as a contact in the messenger:
 * [Suzanna Flanders](./Suzanna%20Flanders/)
 * [Cassius Maelstrom](./Cassius%20Maelstrom/)
 * [James Curtis Fung](./James%20Curtis%20Fung/)
