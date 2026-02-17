@@ -26,6 +26,6 @@ Opening the `boring_shit` directory simply lists out the three files that we can
 
 Trying to open the `anton_private.enc` using the same syntax as other files results in this being printed in the terminal:
 > [QUESTION] File is encrypted. Password required.  
-> Usage: anton_private.enc <password>
+> Usage: anton_private.enc \<password>
 
 The correct command is `anton_private.enc Emilia`
