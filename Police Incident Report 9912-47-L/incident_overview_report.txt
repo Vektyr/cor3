@@ -12,11 +12,13 @@ Time of Arrival: 03:47
 
 Location:
 
-Unregistered transit route outside residential sectors. No permanent infrastructure nearby.
+Unregistered transit route outside residential sectors.
+No permanent infrastructure nearby.
 
 Reason for Call:
 
-Unidentified explosion reported by automated traffic sensors. Secondary confirmation received from orbital monitoring.
+Unidentified explosion reported by automated traffic sensors.
+Secondary confirmation received from orbital monitoring.
 
 Upon Arrival:
 
@@ -44,12 +46,18 @@ Damage pattern is consistent with an explosive event.
 
 The origin of the explosion could not be determined on site.
 
-Actions Taken: — Area cordoned off
+Actions Taken:
+— Area cordoned off
 
-— Remains collected for laboratory analysis — Vehicle fragments documented — Incident logged for follow-up review
+— Remains collected for laboratory analysis
+— Vehicle fragments documented
+— Incident logged for follow-up review
 
-Conclusion: No immediate public safety risk detected. The incident appears isolated.
+Conclusion:
+No immediate public safety risk detected.
+The incident appears isolated.
 
-Case status: Pending laboratory results.
+Case status:
+Pending laboratory results.
 
 Report filed and forwarded to appropriate departments.

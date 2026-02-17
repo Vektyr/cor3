@@ -2,7 +2,8 @@ FORENSIC EXPLOSIVE MATERIALS REPORT
 
 Case Reference: 9912-47-L
 
-Laboratory ID: CFX-8841 Requesting Unit: Outer Transit Patrol
+Laboratory ID: CFX-8841
+Requesting Unit: Outer Transit Patrol
 
 Date Received: [REDACTED]
 
@@ -76,7 +77,8 @@ Notably absent:
 
 Manufacturing Indicators
 
-The detected compound exhibits: — Homogeneous molecular distribution
+The detected compound exhibits:
+— Homogeneous molecular distribution
 
 — Absence of impurity clustering
 
@@ -106,7 +108,8 @@ Blast pattern analysis indicates:
 
 — Minimal residue dispersion beyond expected radius
 
-This suggests: — Precise charge placement
+This suggests:
+— Precise charge placement
 
 — Pre-calculated detonation geometry
 
