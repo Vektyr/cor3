@@ -17,7 +17,7 @@
 > │   └── dont_open/  
 > ├── [deliveries_rough.csv](./backroom.local/deliveries_rough.csv.md)  
 > ├── [velluto_incident_internal.txt](./backroom.local/velluto_incident_internal.txt)  
-> ├── anton_private.enc  
+> ├── [anton_private.enc](./backroom.local/anton_private.enc)  
 > └── ...  
 
 Files can be read by simply entering their name into the terminal, including the file extension.
@@ -27,3 +27,5 @@ Opening the `boring_shit` directory simply lists out the three files that we can
 Trying to open the `anton_private.enc` using the same syntax as other files results in this being printed in the terminal:
 > [QUESTION] File is encrypted. Password required.  
 > Usage: anton_private.enc <password>
+
+The correct command is `anton_private.enc Emilia`
