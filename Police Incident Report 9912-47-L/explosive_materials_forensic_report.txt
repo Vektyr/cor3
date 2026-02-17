@@ -1,0 +1,167 @@
+FORENSIC EXPLOSIVE MATERIALS REPORT
+
+Case Reference: 9912-47-L
+
+Laboratory ID: CFX-8841 Requesting Unit: Outer Transit Patrol
+
+Date Received: [REDACTED]
+
+Date Completed: [REDACTED]
+
+Submitted Materials:
+
+— Fragmented metallic residues (vehicle structure)
+
+— Soil samples from detonation center and periphery
+
+— Trace particulate collected from debris field
+
+— Swab samples from recovered remains and equipment fragments
+
+Methodology:
+
+— Gas Chromatography–Mass Spectrometry (GC-MS)
+
+— Fourier-transform infrared spectroscopy (FTIR)
+
+— Ion chromatography (IC)
+
+— Scanning electron microscopy with energy-dispersive X-ray spectroscopy (SEM-EDS)
+
+— Differential scanning calorimetry (DSC)
+
+Findings:
+
+Explosive Classification
+
+Analysis confirms the presence of a high-order explosive compound.
+
+The explosive does not correspond to any commercially registered
+
+civilian, mining, or industrial explosive formulation.
+
+No direct match found in the Council Explosives Reference Database (CERD).
+
+Chemical Composition (Detected Components)
+
+Primary energetic compounds:
+
+— Cyclotrimethylenetrinitramine (RDX): trace to moderate presence
+
+— Pentaerythritol tetranitrate (PETN): trace presence
+
+Secondary compounds:
+
+— Stabilized nitrate esters
+
+— Polymer-bonded energetic matrix (PBX-like structure)
+
+Additives and modifiers:
+
+— Phlegmatizing agents (exact formulation undetermined)
+
+— Plasticizers consistent with controlled detonation shaping
+
+— Micro-particulate aluminum oxide residues (oxidation byproduct)
+
+Notably absent:
+
+— Ammonium nitrate (AN)
+
+— Fuel oil residues (FO)
+
+— Chlorates or perchlorates
+
+— Black powder constituents
+
+Manufacturing Indicators
+
+The detected compound exhibits: — Homogeneous molecular distribution
+
+— Absence of impurity clustering
+
+— Controlled grain morphology
+
+These characteristics are inconsistent with improvised explosive devices (IEDs).
+
+The formulation suggests:
+
+— Laboratory-controlled synthesis
+
+— Access to precursor purification
+
+— Knowledge of detonation velocity optimization
+
+Detonation Characteristics
+
+Estimated detonation velocity:
+
+— Between 7,200 and 7,800 m/s (calculated)
+
+Blast pattern analysis indicates:
+
+— Directed energy release
+
+— Limited secondary fragmentation
+
+— Minimal residue dispersion beyond expected radius
+
+This suggests: — Precise charge placement
+
+— Pre-calculated detonation geometry
+
+Initiation System
+
+No intact detonator components recovered.
+
+However, residue patterns indicate:
+
+— Multi-stage initiation sequence
+
+— Use of a high-reliability primary charge
+
+Electronic initiation cannot be confirmed or excluded.
+
+Environmental Interaction
+
+Soil nitration levels are consistent with:
+
+— Short-duration high-temperature exposure
+
+— Absence of prolonged combustion
+
+No evidence of post-detonation fire was detected.
+
+Comparative Analysis
+
+The explosive composition does not match:
+
+— Known terrorist attack profiles
+
+— Recent cartel-related explosive incidents
+
+— Common PMC operational munitions
+
+No direct attribution possible based on chemical profile alone.
+
+Conclusion:
+
+The explosive material used in Incident 9912-47-L
+
+was a professionally manufactured high-order explosive.
+
+The device does not align with:
+
+— Improvised constructions
+
+— Opportunistic criminal activity
+
+The origin, manufacturer, and delivery method
+
+cannot be determined based on available evidence.
+
+Report prepared by:
+
+Forensic Chemistry Division
+
+End of report.
