@@ -113,7 +113,8 @@ Path related to the Nutcracker website
 * [WPA(8gyr](./WPA\(8gyr.png) - [WPA8gyrsHRtvSOUVsdlkstSEPOTUBNDFHZGF](https://cdn.cor3.gg/corie/loops/acts/2/wegjlkshvkjdfbhjkfdvhcskjchds/WPA8gyrsHRtvSOUVsdlkstSEPOTUBNDFHZGF.png)
 
 #### jerkhgjkerhkjdshvkjdfbhkjrh34kj4n6kjehvke - loop_201.side_quest_2
-* [dna_fragment_analysis_batch.png.jpg](./Police%20Incident%20Report%209912-47-L/dna_fragment_analysis_batch.png.jpg) - [jerkhgjkerhkjdshvkjdfbhkjrh34kj4n6kjehvke](https://cdn.cor3.gg/corie/loops/acts/2/jerkhgjkerhkjdshvkjdfbhkjrh34kj4n6kjehvke/dhg3vhkjerbktrvhcjkdhbkjgfnjkvchdkjbghrjk3.jpg)
+* [dna_fragment_analysis_batch.png](./Police%20Incident%20Report%209912-47-L/dna_fragment_analysis_batch.png.jpg) - [jerkhgjkerhkjdshvkjdfbhkjrh34kj4n6kjehvke](https://cdn.cor3.gg/corie/loops/acts/2/jerkhgjkerhkjdshvkjdfbhkjrh34kj4n6kjehvke/dhg3vhkjerbktrvhcjkdhbkjgfnjkvchdkjbghrjk3.jpg)
+* [intercepted_message.raw](./intercepted_message.raw.png) - [fdhklerj43jklhkjgfhkjberwcjkerjblnewjkgsajvhdfjv](https://cdn.cor3.gg/corie/loops/acts/2/jerkhgjkerhkjdshvkjdfbhkjrh34kj4n6kjehvke/fdhklerj43jklhkjgfhkjberwcjkerjblnewjkgsajvhdfjv.png)
 
 ## timeline
 * [sfx__004___a](/MR-7-Media-reader-78x/sfx__004___a.png) - [12_lunacolony_security](https://cdn.cor3.gg/corie/timeline/12_lunacolony_security.png) - the link is not working since about the 3rd February
