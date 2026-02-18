@@ -12,9 +12,9 @@
 > │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [unknown_group_analysis.txt](./velluto/suppliers/unknown_group_analysis.txt)  
 > │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [intercepted_message.raw](./velluto/suppliers/intercepted_message.raw.md)  
 > ├── [logistics/](./velluto/logistics/)  
-> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── [delivery_incident_report.log](./velluto/logistics/delivery_incident_report.txt)  
-> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ├── [incoming_deliveries.log](./velluto/logistics/incoming_deliveries.log)  
-> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └── [security_contract.txt](./velluto/logistics/security_contract.txt)  
+> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [delivery_incident_report.log](./velluto/logistics/delivery_incident_report.txt)  
+> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [incoming_deliveries.log](./velluto/logistics/incoming_deliveries.log)  
+> │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [security_contract.txt](./velluto/logistics/security_contract.txt)  
 > ├── [staff/](./velluto/staff/)  
 > │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── [companion_registry.txt](./velluto/staff/companion_registry.txt)  
 > │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [status_changes.log](./velluto/staff/status_changes.log)  
@@ -28,6 +28,6 @@
 > │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── [relocation_notes.enc](./velluto/archive/relocation_notes.enc)  
 > └── misc/  
 
-Directories and files are opened by typing their name into the terminal. It is not necessary to use the subdirectory name when opening one of the files withing, all files are "mapped" to a flat structure.
+Directories and files are opened by typing their name into the terminal. It is not necessary to open a directory to view the files within. All files are "mapped" to a flat structure and can be opened using their name right after connecting.
 
 Attempting to open the `misc` directory returns the error message `Directory is empty or corrupted.`.
