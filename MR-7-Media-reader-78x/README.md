@@ -15,9 +15,9 @@ Fragments on the timeline:
 9. [rec_19_11_00](./rec_19_11_00.mp3) - 2066
 10. frame_88291 - 2074 - locked video
 11. out_ch7_bk - 2074 - locked audio
-12. [sfx__004___a](./sfx__004___a.png) - 2102 - locked image - before its removal was [this](./sfx__004___a.old.png)
+12. [sfx__004___a](./sfx__004___a.png) - 2102 - before its removal was [this](./sfx__004___a.old.png)
 13. [pxl_aa7719](./pxl_aa7719.mp4) - 2105 - locked video
-14. stream_0x4f9e - 2110 - locked image
+14. [stream_0x4f9e](./stream_0x4f9e.png) - 2110
 15. aud_legacy_12 - 2113 - locked image
 16. [capture__lost_003](./capture__lost_003.png) - 2185
 17. vid_null_07 - 2191 - locked audio
