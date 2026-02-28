@@ -28,5 +28,6 @@ Taking the information from `access_list.txt` and [Daniel Bailey](/Messenger/Dan
 ```
 add gravver_node_5,gravver_node_9
 ```
+> [OK] Data injected successfully. Gravver nodes added.
 
 Accessing the `code_of_conduct.txt` file will add a new dialogue option to the Daniel Bailey conversation.
