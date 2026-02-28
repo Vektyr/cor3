@@ -27,3 +27,4 @@ People with 6-digit ID who have been used the story so far
 * [Seamus Malkob](./Seamus%20Malkob/)
 * [Thomas Albertson](./Thomas%20Albertson/)
 * [Vladimir Semakin](./Vladimir%20Semakin/) - he adds you automatically, it's not necessary (nor possible) to add him
+* [Daniel Bailey](./Daniel%20Bailey/)
