@@ -12,6 +12,7 @@ Only some sites get automatically added to the Browser sidebar, likely indicatin
 * [F-10BT UST](./f-10bt-ust/)
 * [Infinite Memory](./infinite_memory.corie/)
 * [Nutcracker Forum](./forum.corie/)
+* [Private Club PMC](./private-club.pmc.corie/)
 * [Reports Archive](./viibot.corie/)
 * [Trade & Shipment Database](./trade-shipment.corie/)
 
