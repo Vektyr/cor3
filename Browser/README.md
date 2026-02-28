@@ -10,6 +10,7 @@ Only some sites get automatically added to the Browser sidebar, likely indicatin
 * [CoreTech](./coretech.corie/)
 * [CORIE System](./welcome.corie/)
 * [F-10BT UST](./f-10bt-ust/)
+* [GRAVER Forum](./grvforum.corie/)
 * [Infinite Memory](./infinite_memory.corie/)
 * [Nutcracker Forum](./forum.corie/)
 * [Private Club PMC](./private-club.pmc.corie/)
