@@ -12,7 +12,7 @@
 
 Attempting to open either of the folders will disconnect you from the website and trigger a new message from [Unknown](/Messenger/Unknown/).
 
-After entering the command `register node --id=privateclubID441538964employeesinfo --user=ops.review_4415` the XXX part of [](/Browser/private-club.pmc.corie/) website becomes available.
+After entering the command `register node --id=privateclubID441538964employeesinfo --user=ops.review_4415` the [employeesinfo](/Browser/private-club.pmc.corie/archive/employeesinfo.txt) document in the archive on [private-club.pmc.corie](/Browser/private-club.pmc.corie/) becomes available.
 
 > [OK] register node --id=privateclubID441538964employeesinfo --user=ops.review_4415  
 > [OK] Node successfully bound to web session.  
