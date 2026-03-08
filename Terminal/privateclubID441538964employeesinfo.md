@@ -17,6 +17,6 @@ After entering the command `register node --id=privateclubID441538964employeesin
 > [OK] register node --id=privateclubID441538964employeesinfo --user=ops.review_4415  
 > [OK] Node successfully bound to web session.  
 > [OK] Archive updated.  
-> [ERROR] Z3JhbnQgcm9sZSA=
+> [OK] Z3JhbnQgcm9sZSA=
 
 The string `Z3JhbnQgcm9sZSA=` decodes from base64 to `grant role `.
