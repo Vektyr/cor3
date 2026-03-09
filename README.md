@@ -123,7 +123,7 @@ Path related to the Nutcracker website
 
 </details>
 
-The [Browser](./Browser/) folder is not an actual folder on the desktop, just houses things related to the browser application found on the app tray.
+The [Browser](./Browser/) folder is not an actual folder on the desktop, just houses things related to the browser application found on the app tray. Neither is [Codex](./Codex/), which is also an application.
 
 The [MR-7-Media-reader-78x](./MR-7-Media-reader-78x/) folder is also not an actual folder, but houses things found on the storage device once it's repaired/decrypted.
 
@@ -131,7 +131,7 @@ The folder [Misc assets](./Misc%20assets/) simply contains a collection of misce
 
 The folder [util](./util/) contains utility items for working with the ARG. The files inside were not found in the ARG itself and are user-created.
 
-After solving all 4 loops, an option to buy a ticket to a ship to Mars appears.  
+After solving all 4 initial loops, an option to buy a ticket to a ship to Mars appears.  
 
 ![banner-status-ready](./Misc%20assets/banner-status-ready.png) → ![banner-status-incoming](./Misc%20assets/banner-status-incoming.png)
 
