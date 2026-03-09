@@ -12,6 +12,25 @@ CORIE Help
 ```
 There indeed had been some problems with the radios prior to this "announcement" via the help system. The compensation was 300 credits.
 
+The text was later (before 9th Match ~16:00 UTC) changed to the following:
+```
+CORIE system notice
+
+Recent diagnostic cycles have revealed several irregularities across parts of the CORIE network.
+
+Some of these issues were identified thanks to users monitoring system behavior and reporting unexpected anomalies.
+
+Your observations help CORIE locate unstable modules faster.
+
+If you encounter unusual behavior, transmission errors, or other system irregularities, please report them through the feedback system. Each report helps improve network stability.
+
+Users who help identify system failures can be rewarded for their contributions.
+
+Diagnostic procedures are ongoing.
+
+CORIE Help
+```
+
 ## 5th March ~18:00 UTC
 ```
 1 server - 1 day 
