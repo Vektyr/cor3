@@ -1,3 +1,11 @@
+## 16th March UTC ~17:00 UTC
+```
+Servers #1, #2, and #3 have access level 1
+Server #4 has access level 2
+Server #5 has access level 3
+If you cannot connect to a server, you may not have connected to all the servers in the previous access level yet
+```
+
 ## 6th March ~20:30 UTC
 ```
 CORIE system notice
