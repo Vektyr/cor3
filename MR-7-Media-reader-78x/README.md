@@ -11,7 +11,7 @@ Fragments on the timeline:
 5. [snd_44100_aa19](snd_44100_aa19.mp4) - 2040
 6. dump_k3_91f - 2045 - locked video
 7. [v_02c9_err](./v_02c9_err.mp4) - 2051
-8. uio_sync_771 - 2066
+8. [uio_sync_771](./uio_sync_771.mp4) - 2066
 9. [rec_19_11_00](./rec_19_11_00.mp3) - 2066
 10. frame_88291 - 2074 - locked video
 11. out_ch7_bk - 2074 - locked audio
@@ -23,4 +23,4 @@ Fragments on the timeline:
 17. vid_null_07 - 2191 - locked audio
 18. [17_noise_b_441_02](./17_noise_b_441_02.png) - 2204
 19. [img_cache_f91](./img_cache_f91.mp4) - 2230
-20. blk_0a91c_f - locked image
+20. [blk_0a91c_f](./blk_0a91c_f.png)
