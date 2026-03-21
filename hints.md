@@ -1,3 +1,9 @@
+## 21st March
+~24 hours after reaching opening messages with [Silver Odyssey Ship Channel](/Messenger/Silver%20Odyssey%20Ship%20Channel/)
+```
+Someone named Charlie left a message in the ship channel. Read it carefully – there's a bot address and a password hidden in the text. Try connecting via CLU.
+```
+
 ## 16th March UTC ~17:00 UTC
 ```
 Servers #1, #2, and #3 have access level 1
