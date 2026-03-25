@@ -8,12 +8,12 @@ ARG related to the launch of cor3.gg
 ### assets
 * [L.png](./Browser/infinite_memory.corie/L.png.jpg) - [BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
 * [*@TOL.png](./Browser/infinite_memory.corie/_@TOL.png.jpg) - [BHd1X9Yf](https://os.cor3.gg/assets/L.png.BHd1X9Yf.jpg)
-* [Cargo.png](./Browser/viibot.corie/Cargo.png.jpg) [BKaNviG_](https://os.cor3.gg/assets/Cargo.png.BKaNviG_.jpg)
-* [Biofarms](./Browser/forum.corie/Biofarms.jpg) [B0JfPtEO](https://os.cor3.gg/assets/Biofarms.B0JfPtEO.jpg)
-* [Goodies](./Browser/forum.corie/Goodies.png.jpg) [nbUL9XqW](https://os.cor3.gg/assets/Goodies.png.nbUL9XqW.jpg)
-* [missilesilo_09](./Browser/trade-shipment.corie/missilesilo_09.jpg) [DXef9zha](https://os.cor3.gg/assets/missilesilo_09.DXef9zha.jpg)
-* [banner-status-incoming](./Misc%20assets/banner-status-incoming.png) [dop5u0np](https://os.cor3.gg/assets/banner-status-incoming.dop5u0np.png) (dead link now)
-* [banner-status-ready](./Misc%20assets/banner-status-ready.png) [CyXOFZ4R](https://os.cor3.gg/assets/banner-status-ready.CyXOFZ4R.png) (dead link now)
+* [Cargo.png](./Browser/viibot.corie/Cargo.png.jpg) - [BKaNviG_](https://os.cor3.gg/assets/Cargo.png.BKaNviG_.jpg)
+* [Biofarms](./Browser/forum.corie/Biofarms.jpg) - [B0JfPtEO](https://os.cor3.gg/assets/Biofarms.B0JfPtEO.jpg)
+* [Goodies](./Browser/forum.corie/Goodies.png.jpg) - [nbUL9XqW](https://os.cor3.gg/assets/Goodies.png.nbUL9XqW.jpg)
+* [missilesilo_09](./Browser/trade-shipment.corie/missilesilo_09.jpg) - [DXef9zha](https://os.cor3.gg/assets/missilesilo_09.DXef9zha.jpg)
+* [banner-status-incoming](./Misc%20assets/banner-status-incoming.png) - [dop5u0np](https://os.cor3.gg/assets/banner-status-incoming.dop5u0np.png) (dead link now)
+* [banner-status-ready](./Misc%20assets/banner-status-ready.png) - [CyXOFZ4R](https://os.cor3.gg/assets/banner-status-ready.CyXOFZ4R.png) (dead link now)
 
 ### loops 0
 Tutorial
@@ -129,10 +129,21 @@ Path related to the Nutcracker website
 * [Interrogation protocol](./ATLAS_ARCHIVE/Interrogation%20protocol.jpg) - [frbjrhtkjvhkjytnklbrjv](https://cdn.cor3.gg/corie/loops/acts/2/lknjytlkbjvkljfdb/frbjrhtkjvhkjytnklbrjv.jpg)
 * [Manifest:  Technofreedom](./ATLAS_ARCHIVE/Manifest%20Technofreedom.jpg) - [grejkhkejwhbkjrvrejkh](https://cdn.cor3.gg/corie/loops/acts/2/lknjytlkbjvkljfdb/grejkhkejwhbkjrvrejkh.jpg)
 
-## timeline
+---
+
+### timeline
 * [sfx__004___a](/MR-7-Media-reader-78x/sfx__004___a.png) - [12_lunacolony_security](https://cdn.cor3.gg/corie/timeline/12_lunacolony_security.png) - the link is not working since about the 3rd February
 
+### ranks
+* Pathfinder - [badges/pathfinder](https://cdn.cor3.gg/corie/ranks/badges/pathfinder.svg) - [images/pathfinder](https://cdn.cor3.gg/corie/ranks/images/pathfinder.png)
+* Torchbearer - [badges/torchbearer](https://cdn.cor3.gg/corie/ranks/badges/torchbearer.svg) - [images/torchbearer](https://cdn.cor3.gg/corie/ranks/images/torchbearer.png)
+* The Pillar - [badges/the_pillar](https://cdn.cor3.gg/corie/ranks/badges/the_pillar.svg) - [images/the_pillar](https://cdn.cor3.gg/corie/ranks/images/the_pillar.png)
+* Forerunner - [badges/forerunner](https://cdn.cor3.gg/corie/ranks/badges/forerunner.svg) - [images/forerunner](https://cdn.cor3.gg/corie/ranks/images/forerunner.png)
 
+### achievements
+See [Achievements.md](Achievements.md).
+
+---
 </details>
 
 The [Browser](./Browser/) folder is not an actual folder on the desktop, just houses things related to the browser application found on the app tray. Neither is [Codex](./Codex/), which is also an application.
