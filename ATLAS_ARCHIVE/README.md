@@ -1,0 +1,1 @@
+The actual name of the file [Manifest Technofreedom](Manifest%20Technofreedom.jpg) includes a colon and a double space: `Manifest:  Technofreedom`.
