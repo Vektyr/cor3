@@ -34,3 +34,18 @@ After reading the [Ghost site](/Browser/private-club.pmc.corie/archive/Ghost%20s
 
 > Address to connect to the server:  
 > `connect moon_orbital_recon --password=Gsdfg53254Hsdfg`
+
+
+After talking to James Curtis Fung and a bit of dialogue, the Unknown provides the way to connect to [ATLAS_INFORMATION](/Terminal/ATLAS_INFORMATION.md).
+
+> First things first.
+> 
+> Connect to this node:
+> 
+> `connect ATLAS_INFORMATION GRID_INTERMEDIATE_ARCHIVE_SERVER --password=12345678`
+> 
+> Inside you will find a key-file selection system.
+> 
+> Break it.
+> 
+> Once you're done, come back to us.
