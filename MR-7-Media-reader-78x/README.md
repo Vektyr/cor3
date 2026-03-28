@@ -1,5 +1,6 @@
 When the device is first connected, a log is shown; archived in [boot.md](./boot.md).
 
+The inserted drive's name is `USSDP-78X` with the serial number `SN-A2089-99D-3K201`. The only file on the drive is `EVID-CIS-MAIN-C2R1856.2`, which contains a timeline with image/video/audio fragments.
 
 ## Timeline
 Fragments on the timeline: 
