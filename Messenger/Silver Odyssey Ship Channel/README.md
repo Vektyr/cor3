@@ -9,3 +9,6 @@
 > For fuck’s sake, is it really that hard to open the damn terminal, write connect cleaner_bot_4_2   and fix that damn tin can ? I’d do it myself if someone was not so paranoid to cut everyone’s access off!
 
 > To Crew:  REMOVE the last message immediately ! ANYONE who has the darn access !
+
+When the Robot Cleaner minigame becomes available again after the timeout after dumping the collected dust into the air system:
+> Attention please. The Silver Odyssey crew would like to expend our sincere apologies to all the passengers and promise that all malfunctions will be fixed shortly.  Please be assured that the air filtration system is working as intended and there is no reason to worry about it. All the recent troubles with air purity and cleaner drones malfunctions would be mitigated shortly.
