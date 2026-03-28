@@ -12,3 +12,5 @@
 
 When the Robot Cleaner minigame becomes available again after the timeout after dumping the collected dust into the air system:
 > Attention please. The Silver Odyssey crew would like to expend our sincere apologies to all the passengers and promise that all malfunctions will be fixed shortly.  Please be assured that the air filtration system is working as intended and there is no reason to worry about it. All the recent troubles with air purity and cleaner drones malfunctions would be mitigated shortly.
+
+Along with this message the "My name is roomba" achievement is granted.
