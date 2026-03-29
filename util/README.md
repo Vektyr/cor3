@@ -10,5 +10,11 @@ This script requires [FFMPEG](https://www.ffmpeg.org/download.html) to function.
 ### anti_glitch.js
 Removes the glitch and shake screen effect after the "Firewall breach" browser minigame or the "Maze" minigame appear. Either paste the contents of the file into your browser's console, or (the recommended method) create a new bookmark in the browser and paste the following into the URL field:
 ```js
-javascript:(function()%7Bdocument.querySelectorAll(%22.system-error-shake%22).forEach(n%20%3D%3E%20n.classList.remove(%22system-error-shake%22))%0Avar%20glitchEl%20%3D%20document.querySelector('%5Bdata-component%3D%22SystemErrorSvgFilter%22%5D')%3B%0AglitchEl%20%26%26%20(glitchEl.style.display%20%3D%20%22none%22)%7D)()%3B
+javascript:void%20function(){document.querySelectorAll(%22.system-error-shake%22).forEach(a=%3Ea.classList.remove(%22system-error-shake%22));var%20a=document.querySelector(%22[data-component=\%22SystemErrorSvgFilter\%22]%22);a%26%26(a.style.display=%22none%22);var%20b=document.getElementById(%22glitch-background%22);b%26%26(b.style.display=%22none%22);var%20c=document.getElementById(%22video-waves%22);c%26%26(c.style.display=%22none%22)}()%3B
+```
+
+### locale_fix.js
+Fixes requests to english translation of the site to load the correct file. Run the code as soon as the site starts loading. Again recommended to be used as a bookmarklet:
+```js
+javascript:void%20function(){const%20a=window.fetch;window.fetch=(...b)=%3E(%22string%22==typeof%20b[0]%26%26(b[0]=b[0].replace(%22/en-US/browser.json%22,%22/en/browser.json%22),b[0]=b[0].replace(%22/en-US/translation.json%22,%22/en/translation.json%22)),a(...b))}()%3B
 ```
