@@ -1,5 +1,42 @@
 ## Act 3
 ```
+New sections unlocked: Hire (in Market) and Expedition.
+
+In Hire, operatives can be recruited for missions.
+Carefully review their attributes — performance depends on them.
+
+In Expedition, mission progress can be monitored, decisions can be assisted, and all collected items can be reviewed.
+```
+After chatting with Aurana about the files and unlocking Expeditions.
+
+```
+New incoming message.
+Aurana is waiting for your response.
+```
+After going through all the three files downloaded from `RM7-E1L2CT`.
+
+```
+Server breach required.
+Locate the hacking program Porter-lite r4 in the Market and install it via Loadout.
+Monitor system resources — temporarily disable Cypher+ v1.4 if necessary.
+After installation, locate the server RM7-E1L2CT and access it via the Server Administration Interface.
+
+Upon successful access, the following sections will be available:
+— Transit Access — displays blocked IP addresses;
+— Files — contains all stored server files;
+— Logs — contains recorded server activity.
+
+Search the Files section for any materials related to Chris Tong.
+```
+After chatting with [Aurana](/Messenger/Aurana%20Strogova/) about the website.
+
+```
+Report your findings.
+Contact Aurana and share the new information.
+```
+After visiting [rm7-e1l2ct.local](/Browser/rm7-e1l2ct.local/) after getting the URL from [KRVA_BB.png](/KRVA_BB.png.md).
+
+```
 Next step: file decryption.
 Purchase the decryptor Cypher+ v1.4 in the Market, then install it via Loadout.
 After installation, use it to decrypt KRVA_BB.eb52x. Carefully review the file after decryption.

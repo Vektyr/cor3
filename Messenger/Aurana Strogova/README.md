@@ -66,3 +66,38 @@ Player:
 > No, not really. It has a weird extension that requires specialized software it seems. Could you help with that?
 
 This grants 1500 credits.
+
+...
+
+Player:
+> I've opened the file. It contains a drone schematic and a link — RM7-E1L2CT.local/storage. The link seems to lead to the same server, but I can't access it.
+
+Aurana:
+> Looks like it requires admin-level access, which in our case means… hacking! Select the target server on the NETWORK MAP, then you'll need to log in — but since you don't have the appropriate software yet, you'll have to acquire it first. I'm sure you're used to this by now, but the only way to get the required tools is to buy them on the market, legally. After all, you're an official CEDRT member now.
+> 
+> The simplest option will do — "Porter-lite r4" should be perfect for you. But! Keep in mind that some software requires specific hardware. So after purchasing it, disable your current program before installing the new one. Or upgrade your hardware if you feel it's necessary.
+> 
+> Once you gain access, head into the server’s file system. Look for anything related to Tong and download it.
+
+...
+
+Aurana:
+> That is not near Mars. Good that you have the coordinates and keys, but you cannot go there yourself — for obvious reasons.  
+> It might be time to use mercs.
+> 
+> But first — you need to upload those codes into a physical chip. Only then can you send it with whoever takes the job.
+
+Player:
+> Yeah, figured as much. I'll upload them to a dog tag or a key card and store it for now.  
+> Next step is to find someone reliable to handle the job.
+
+Aurana:
+> Check the market. There are always people willing to work — for a price.  
+> Just make sure they are trustworthy.
+
+This grants 12,000 credits.
+
+Player:
+> Will do.
+
+This raises the System Version to `3.03`, granting access to [Expeditions](/Expeditions/).
