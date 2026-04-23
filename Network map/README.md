@@ -55,7 +55,7 @@ The server `RM7-E1SCP` has a file [sw12_Sec_Report_2341245.txt](/sw12_Sec_Report
 ## Important files
 ### RM7-E1L2CT
 * [Email: From: Chris_Tong.txt](/Email%20From%20Chris_Tong.txt.md)
-* [Component_board_tx-71review.txt](/Component_board_tx-71review.txt)
+* [Component_board_tx-71tong.txt](/Component_board_tx-71tong.txt.md)
 * [Mantis_drone_R4RD(TONG).png](/Mantis_drone_R4RD(TONG).png.jpg)
 
 ### RM7-E1SCP
