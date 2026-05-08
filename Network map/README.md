@@ -4,24 +4,50 @@ flowchart LR
 019c0a5b-eeeb-7d3e-b9c9-fd5c2ba7d399["Home Server"]
 019d1b0a-13a9-77dd-b41f-33f06f2df284["RM7-E1L3"]
 019d1b0a-13a9-77dd-b41f-374ee144bd07["RM7-E1L5"]
-019d1b0a-13a9-77dd-b41f-3a21d490cb2d["RM7-E1SCP"]
 019d1b0a-13a9-77dd-b41f-3ffb5f671742["RM7-S4L4"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a101["RM7-N2L2"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a102["RM7-N2L3"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a103["RM7-W3L2"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a104["RM7-N1L1"]
+019d1b0a-13a9-77dd-b41f-3a21d490cb2d["RM7-E1SCP"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a105["RM7-N2ECP"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a106["RM7-W3NCP"]
+019d53aa-5101-7f08-b3dd-378b0ddcf7d0["RM7-E1L2CT"]
 019d29c5-4b37-7436-aef9-89af09560af3["D4RK RM7CE"]
 019d29c5-4b37-79bf-b23e-304d8ea03c15["D4RK RM7MI"]
 019d29c5-4b37-7de9-b46c-022179bcb5eb["D4RK 2IV2"]
-019d53aa-5101-7f08-b3dd-378b0ddcf7d0["RM7-E1L2CT"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a107["SRM7-N3L1"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a108["SRM7-M"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a109["SRM7-N3L2"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a10a["SRM7-N4L2"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a10b["SPRM7-N4L3"]
+019da6f1-16f7-75a6-b6d3-0b1d5f92a10c["SRRM7"]
 
-019c0a5b-eeeb-7d3e-b9c9-fd5c2ba7d399 --> 019d1b0a-13a9-77dd-b41f-33f06f2df284
-019c0a5b-eeeb-7d3e-b9c9-fd5c2ba7d399 --> 019d1b0a-13a9-77dd-b41f-374ee144bd07
-019d1b0a-13a9-77dd-b41f-374ee144bd07 --> 019d1b0a-13a9-77dd-b41f-3a21d490cb2d
-019d1b0a-13a9-77dd-b41f-3a21d490cb2d --> 019d1b0a-13a9-77dd-b41f-3ffb5f671742
-019d1b0a-13a9-77dd-b41f-3a21d490cb2d -.-> 019d29c5-4b37-7436-aef9-89af09560af3
-019d29c5-4b37-7436-aef9-89af09560af3 --> 019d29c5-4b37-79bf-b23e-304d8ea03c15
-019d29c5-4b37-7436-aef9-89af09560af3 --> 019d29c5-4b37-7de9-b46c-022179bcb5eb
-019d1b0a-13a9-77dd-b41f-374ee144bd07 --> 019d53aa-5101-7f08-b3dd-378b0ddcf7d0
+019c0a5b-eeeb-7d3e-b9c9-fd5c2ba7d399 --- 019d1b0a-13a9-77dd-b41f-33f06f2df284
+019c0a5b-eeeb-7d3e-b9c9-fd5c2ba7d399 --- 019d1b0a-13a9-77dd-b41f-374ee144bd07
+019d1b0a-13a9-77dd-b41f-374ee144bd07 --- 019d1b0a-13a9-77dd-b41f-3a21d490cb2d
+019d1b0a-13a9-77dd-b41f-3a21d490cb2d --- 019d1b0a-13a9-77dd-b41f-3ffb5f671742
+019d1b0a-13a9-77dd-b41f-33f06f2df284 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a105
+019da6f1-16f7-75a6-b6d3-0b1d5f92a101 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a105
+019da6f1-16f7-75a6-b6d3-0b1d5f92a102 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a101
+019da6f1-16f7-75a6-b6d3-0b1d5f92a103 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a106
+019da6f1-16f7-75a6-b6d3-0b1d5f92a104 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a106
+019da6f1-16f7-75a6-b6d3-0b1d5f92a104 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a107
+019da6f1-16f7-75a6-b6d3-0b1d5f92a102 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a106
+019d1b0a-13a9-77dd-b41f-3a21d490cb2d -.- 019d29c5-4b37-7436-aef9-89af09560af3
+019d29c5-4b37-7436-aef9-89af09560af3 --- 019d29c5-4b37-79bf-b23e-304d8ea03c15
+019d29c5-4b37-7436-aef9-89af09560af3 --- 019d29c5-4b37-7de9-b46c-022179bcb5eb
+019d1b0a-13a9-77dd-b41f-374ee144bd07 --- 019d53aa-5101-7f08-b3dd-378b0ddcf7d0
+019da6f1-16f7-75a6-b6d3-0b1d5f92a107 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a10a
+019da6f1-16f7-75a6-b6d3-0b1d5f92a107 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a108
+019da6f1-16f7-75a6-b6d3-0b1d5f92a108 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a109
+019da6f1-16f7-75a6-b6d3-0b1d5f92a109 --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a10c
+019da6f1-16f7-75a6-b6d3-0b1d5f92a10a --- 019da6f1-16f7-75a6-b6d3-0b1d5f92a10b
 ```
 
 ## Defense rates
+* 0
+    * Home Server
 * 5
     * RM7-E1L3
     * RM7-E1L5
@@ -29,12 +55,29 @@ flowchart LR
 * 7
     * RM7-E1L2CT
 * 12
+    * RM7-N2L3
     * RM7-E1SCP
+    * RM7-N2ECP
+    * SRM7-N3L1
+* 13
+    * RM7-N2L2
+    * RM7-N1L1
+    * RM7-W3NCP
 * 15
+    * RM7-W3L2
     * D4RK RM7CE
     * D4RK RM7MI
+* 16
+    * SRM7-N3L2
+    * SPRM7-N4L3
+* 18
+    * SRM7-N4L2
 * 22
     * D4RK 2IV2
+* 24
+    * SRM7-M
+* 38
+    * SRRM7
 
 ## How it works?
 Network Map is your guide into the entirety of the global CORIE net. Its main purpose is to provide a clear visual representation, positioning and dependencies of your "base" network and its surroundings.
@@ -51,6 +94,8 @@ There could be additional conditions to access various assets on the Network, fo
 Connecting to `RM7-E1SCP` reveals the server `RM7-S4L4`.
 
 The server `RM7-E1SCP` has a file [sw12_Sec_Report_2341245.txt](/sw12_Sec_Report_2341245.txt.md), which can be downloaded. It is possible to obtain the IP address `855.528.0.4`, which reveals the servers `D4RK RM7CE`, `D4RK RM7MI` and `D4RK 2IV2`.
+
+Connecting to `RM7-E1L3` reveals the server `RM7-N2ECP`, which in turn reveals all the further servers situated in the branch, including Soyuz servers: `RM7-N2L2`, `RM7-N2L3`, `RM7-W3NCP`, `RM7-W3L2`, `RM7-N1L1`, `SRM7-N3L1`, `SRM7-N4L2`, `SPRM7-N4L3`, `SRM7-M`, `SRM7-N3L2`, `SRRM7`.
 
 ## Important files
 ### RM7-E1L2CT
